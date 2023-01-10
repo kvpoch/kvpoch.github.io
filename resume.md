@@ -1,5 +1,6 @@
 # Katherine Poch
 
+
 kvpoch@uw.edu
 
 http://www.linkedin.com/in/kvpoch
@@ -47,6 +48,7 @@ Performed data cleaning on **large data sets of over 8,000 rows**
 
 
 # Education
+![geog](geog.png)
 
 **B.A. Geography Data Science, Minor in Informatics**
 University of Washington – Seattle, WA
