@@ -2,17 +2,14 @@
 
 kvpoch@uw.edu
 
-http://www.example.com
-
 http://www.linkedin.com/in/kvpoch
 
-# Summary
 
-I am a hard dedicated worker looking for new work experience.
+>Prioritizing Data Science internship positions for summer 2023.
 
-# Work Experience (only last 10 years)
+# Work Experience 
 
-## Bartells Pharmacy (Lynnwood, WA)
+## Mercury Pharmacy (Mountlake Terrace, WA)
 
 **Pharmacy Assistant** (Dec 2018 - Present)
 
@@ -28,17 +25,32 @@ Pharmacy assistants provide support to the pharmacists and technicians by stocki
 
 **Private Math Tutor** (Jan 2020 - Present)
 
-Spend 3 hours per week providing tutoring services for elementary-level math for three students
+- Spend 3 hours per week providing tutoring services for elementary-level math for three students
 
 - Organize dedicated lesson plans with workbooks and flashcards 
 - Encourage and help students with their math questions and homework
 
 
-## [UW Information School](https://ischool.uw.edu/)  (Seattle, WA)
-**Undergraduate Technical Tutor**  (Jan 2020 - March 2021)
+# Selected Projects
 
-- Tutored **25 students** 1-on-1 on complex technical content,including R, JavaScript, and React by communicating the concepts in a clear and digestable way. 
+**[Chart.js System Report](https://github.com/info443-wi22/project-2-kvpoch)** (January 2022 - March 2022)
+-   Created a report with two students analyzing the component-level architecture of Chart.js, an open-source JavaScript library project for creating data visualizations available on GitHub
+-  Analyzed the code and documentation to create two UML Component Diagrams that explain the system from a development viewpoint
+- Proposed four modifications to open-source software projects
 
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+ 
+**[Police Brutality Data Visualizations]( https://kvpoch.shinyapps.io/info201finalGEKK/)** (October 2020 - December 2020)
+- Built a Shiny Application with one other student that facilitates the exploration of U.S. police brutality datasets through various interactive data visualizations
+- Written in R; used CSS and HTML to neatly present findings 
+Performed data cleaning on **large data sets of over 8,000 rows**
+- Successfully demonstrated high-level insights and analysis on major trends in the visualizations created
+
+
+# Education
+
+**B.A. Geography Data Science, Minor in Informatics**
+University of Washington – Seattle, WA
+Expected Graduation: June 2024
+GPA: 3.72
+
+_Relevant Coursework_: Databases and Data Modeling, Statistical Concepts and Methods for the Social Sciences, Interactive Information Visualization, Foundational Skills for Data Science, Software Architecture, Data Structures and Algorithms
